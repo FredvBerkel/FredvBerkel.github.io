@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Chivo&display=swap');
+
+body {
+	font-family: 'chivo', sans-serif;
+	
+}
+
+h1 {
+	color: orange;
+}
+
+p {
+	max-width:50em;
+}
