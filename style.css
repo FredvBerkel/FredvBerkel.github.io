@@ -2,7 +2,7 @@
 
 body {
 	font-family: 'chivo', sans-serif;
-	
+	line-height: 25pt;
 }
 
 h1 {
@@ -11,4 +11,9 @@ h1 {
 
 p {
 	max-width:50em;
+	line-height: 20pt;
+}
+
+li {
+	line-height: 20pt;
 }
